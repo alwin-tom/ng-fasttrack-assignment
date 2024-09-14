@@ -1,0 +1,27 @@
+.status {
+    font-size: 12px;
+    padding: 0.5% 2%;
+    border-radius: 5px;
+}
+
+.draft {
+    background-color: #e6e6e6;
+}
+
+.scheduled {
+    background-color: #0de40d;
+}
+
+.requested {
+    background-color: orange;
+}
+
+.archived {
+    background-color: red;
+}
+
+.dates-p {
+    font-size: 13px;
+}
+
+.close {display: none;}
